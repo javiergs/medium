@@ -2,7 +2,7 @@
 
 Complete Java source-code examples accompanying articles published on **Medium**. Each folder preserves the examples as shared with readers, including examples using external libraries.
 
-> **Article links:** The original article URLs are not recorded in this repository. Add verified article titles and links below when available; no URLs have been guessed.
+> **Article links:** Verified Medium articles are linked below; remaining examples are listed without guessed URLs.
 
 ## Examples
 
@@ -12,13 +12,20 @@ Complete Java source-code examples accompanying articles published on **Medium**
 
 ## Medium article links
 
-The original article URLs are not recorded in this repository. Add verified titles and links when available:
+### Neural networks
 
-- **Clustering:** *Published article link to be added.*
-- **Neural networks:** *Published article link(s) to be added.*
-- **WebSockets:** *Published article link to be added.*
+- **[DeepLearning4J: Getting Started](https://mscjaviergs.medium.com/neural-networks-getting-started-with-eclipse-deeplearning4j-897f3662832b)** — XOR example using DeepLearning4J: [`NeuralNetwork/ExampleXORWithDL4J.java`](NeuralNetwork/ExampleXORWithDL4J.java).
+- **[DeepLearning4J: Simple Image Classification](https://mscjaviergs.medium.com/deeplearning4-for-image-classification-part-1-fc01cb2b1c62)** — MNIST handwritten-digit classification: [`NeuralNetwork/digitsModel/`](NeuralNetwork/digitsModel/).
 
-A folder may contain code for more than one article. These are placeholders, not verified article-to-folder mappings.
+### Other examples
+
+The corresponding published article URLs have not yet been confirmed for:
+
+- **Clustering:** [`Clustering/`](Clustering/)
+- **Neural network from scratch:** [`NeuralNetwork/BasicNeuralNetwork.java`](NeuralNetwork/BasicNeuralNetwork.java)
+- **WebSockets:** [`Websockets/`](Websockets/)
+
+Some folders may contain examples for multiple articles. Article links will be added only when verified.
 
 ## Running the examples
 
