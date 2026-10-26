@@ -6,21 +6,19 @@ Complete Java source-code examples accompanying articles published on **Medium**
 
 ## Examples
 
-| Topic | Source | What it demonstrates | Dependencies |
-| --- | --- | --- | --- |
-| Clustering | [`Clustering/`](Clustering/) | Java clustering examples and a Weka K-means example | Core examples: Java; `Weka/WekaKMeans.java`: Weka |
-| Neural networks | [`NeuralNetwork/`](NeuralNetwork/) | A neural network from scratch, XOR with DeepLearning4J, and handwritten-digit examples | Core `BasicNeuralNetwork.java`: Java; other examples: DeepLearning4J/ND4J and potentially additional dependencies |
-| WebSockets | [`Websockets/`](Websockets/) | Java WebSocket client/server | Tyrus WebSocket implementation |
+- **Clustering — [`Clustering/`](Clustering/):** Java clustering examples and Weka K-means. The core examples use Java; `Weka/WekaKMeans.java` requires Weka.
+- **Neural networks — [`NeuralNetwork/`](NeuralNetwork/):** A neural network implemented from scratch, XOR with DeepLearning4J, and handwritten-digit examples. The framework examples require DeepLearning4J/ND4J and possibly additional dependencies.
+- **WebSockets — [`Websockets/`](Websockets/):** Java WebSocket client/server examples using Tyrus.
 
-## Finding the article for an example
+## Medium article links
 
-| Source | Medium article |
-| --- | --- |
-| `Clustering/` | *Link to published article to be added* |
-| `NeuralNetwork/` | *Link(s) to published article(s) to be added* |
-| `Websockets/` | *Link to published article to be added* |
+The original article URLs are not recorded in this repository. Add verified titles and links when available:
 
-The folders are organized by code topic, not necessarily one folder per article. The mapping above is a placeholder until the exact published articles can be verified.
+- **Clustering:** *Published article link to be added.*
+- **Neural networks:** *Published article link(s) to be added.*
+- **WebSockets:** *Published article link to be added.*
+
+A folder may contain code for more than one article. These are placeholders, not verified article-to-folder mappings.
 
 ## Running the examples
 
