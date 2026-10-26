@@ -30,11 +30,3 @@ These are **article companion examples**, not a single Maven or Gradle applicati
 - **WebSockets:** The chat server imports `org.glassfish.tyrus.server.Server`, so a compatible Tyrus dependency is required. No project-wide dependency manifest is included.
 
 Some examples use older library APIs and may need the versions used when their articles were written. To keep published examples recognizable, any modernization should be documented separately rather than silently changing the original code.
-
-## Repository policy
-
-- Preserve original example filenames, directory paths, and behavior so readers can follow the articles.
-- Add verified article links and dependency/version notes as they become available.
-- Keep generated `.class` files, build outputs, and local IDE settings out of version control.
-
-This repository is a **source-code archive for published articles**, not a maintained production application.
